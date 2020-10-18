@@ -1,0 +1,2 @@
+# NewWavePhotography
+Photography company website.
